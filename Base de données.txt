@@ -1,10 +1,10 @@
-Gestion, protection et entretien de la mangrove_Femme	Effectif_femme
-Participation aux réunions 	15
+Gestion_protection_entretien.mangrove_Femme	Effectif_femme
+Participation aux rÃ©unions 	15
 Planification 	11
-Prise de décision 	14
-Coordination avec d’autres organisations/organismes 	7
+Prise de dÃ©cision 	14
+Coordination avec dâ€™autres organisations/organismes 	7
 Vente propagules 	12
 Suivi 	2
 Nettoyage de la mangrove 	8
-Comptabilité des recettes et des dépenses 	11
+ComptabilitÃ© des recettes et des dÃ©penses 	11
 Garde des fonds 	13
